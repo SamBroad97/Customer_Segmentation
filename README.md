@@ -19,6 +19,11 @@ https://public.tableau.com/app/profile/sam.broad/viz/CustomerSegmentationUsingRF
 - Demonstrate an end‑to‑end analytical workflow  
 
 ---
+## Dataset
+
+This project uses a synthetic dataset sourced from Kaggle, created for demonstration and learning purposes.
+
+---
 
 ## Data and Features
 
@@ -107,5 +112,6 @@ python customersegmentation_analysis.py
 
 ### 5. Explore results
 Open the Tableau dashboard to view the cluster profiles and interactive visualisation.
+
 
 
