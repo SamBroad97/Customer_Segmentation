@@ -101,3 +101,4 @@ The final dataset (`customer_segments.csv`) is used to create an interactive Tab
 
 This project demonstrates an end‑to‑end customer segmentation workflow using Python and KMeans.  
 The resulting personas can support targeted marketing, retention strategies, and customer value analysis.
+
